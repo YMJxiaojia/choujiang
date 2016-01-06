@@ -1,0 +1,40 @@
+.g-top{background: url(../img/top.png) #ff453b;height: 984px;background-size: 100% 100%;}
+.m-content{width: 1200px;margin:0 auto;height: 950px;position: relative;position: relative;padding-top: 1px;}
+.u-egg{display: block;margin:96px auto 0;}
+.u-candy{position: absolute;top: 188px;right: 43px;}
+.u-merry{position: absolute;bottom: 0;left: 50%;margin-left: -330px;}
+.g-center{height: 738px;background:url(../img/center.png) #5dcfed;background-size: 100% 100%;}
+.g-center .m-content{height: 738px}
+.u-ma{margin:-30px auto 0;display: block;}
+.u-candy2{position: absolute;top: 71px;right: 430px;}
+.luck{position: relative;width: 588px;height: 584px;margin:0 auto;}
+.luck span{display: block;width: 86px;height: 86px;cursor: pointer;position: absolute;left: 50%;margin-left: -43px;top: 246px;z-index: 10}
+.u-luckbtn{position: absolute;z-index: 2;left: 50%;margin:41px 0 0 -97px;}
+.u-luckimg{position: absolute;z-index: 1;width: 588px;height: 584px;}
+.m-text{width: 734px;color: #fff;margin:0 auto;}
+.m-text h4{font-size: 20px;font-weight: bold;margin-bottom: 22px;}
+.m-text-lf{width: 345px;float: left;}
+.m-text-lf div{font-size: 16px;margin-bottom: 34px;}
+.m-text-lf ul li{margin-bottom: 10px;line-height: 24px;}
+.m-text-ri{width: 345px;float: right;}
+.m-text-ri ul li{line-height: 24px;margin-bottom: 16px;}
+.u-hat{position: absolute;bottom: 90px;right: 198px;}
+.u-star{position: absolute;bottom: -45px;left: 510px;z-index: 10}
+.u-person{position: absolute;z-index: 1;left:643px;bottom: 0;}
+.g-center2{height: 810px;background: #ebe14e}
+.g-center2 .m-content{height: 810px;background: url(../img/center2.png);background-size: 100% 100%;}
+.u-two{display: block;margin:44px auto 0;}
+.m-reward{width: 733px;margin: 40px auto 0;}
+.m-reward-lf{width: 352px;color: #5a4819;font-weight: bold;float: left;}
+.m-reward-lf h4{font-size: 20px;font-weight: bold;margin-bottom: 14px;}
+.m-reward-lf h5{font-size: 16px;font-weight: bold;margin-bottom: 14px;}
+.m-reward-lf li{margin-bottom: 12px;}
+.m-reward-ri{float: right;width: 340px;}
+.m-reward-ri li{float: left;width: 154px;height: 154px;background: #f8f07a;border:3px solid #5c3812;margin:0 10px 10px 0;}
+.m-reward-ri li img{display: block;margin: 18px auto 0;height: 88px;}
+.m-reward-ri li span{display: block;text-align: center;margin-top:14px;color: #5a4819}
+.g-bottom{height: 470px;background: #f0341a}
+.g-bottom .m-content{height: 470px;background: url(../img/bottom.png);background-size: 100% 100%}
+.u-qiqiu{display: block;margin:-135px auto 0;position: relative;z-index: 2}
+.u-merry2{display: block;margin:-40px auto 0;position: relative;z-index: 1}
+.u-activity{display: block;margin:10px auto 0;}
